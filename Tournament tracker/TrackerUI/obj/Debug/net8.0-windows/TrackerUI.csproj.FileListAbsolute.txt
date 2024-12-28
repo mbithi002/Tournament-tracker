@@ -1,0 +1,17 @@
+C:\C#\Tournament tracker\TrackerUI\bin\Debug\net8.0-windows\TrackerUI.exe
+C:\C#\Tournament tracker\TrackerUI\bin\Debug\net8.0-windows\TrackerUI.deps.json
+C:\C#\Tournament tracker\TrackerUI\bin\Debug\net8.0-windows\TrackerUI.runtimeconfig.json
+C:\C#\Tournament tracker\TrackerUI\bin\Debug\net8.0-windows\TrackerUI.dll
+C:\C#\Tournament tracker\TrackerUI\bin\Debug\net8.0-windows\TrackerUI.pdb
+C:\C#\Tournament tracker\TrackerUI\obj\Debug\net8.0-windows\TrackerUI.TournamentViewerForm.resources
+C:\C#\Tournament tracker\TrackerUI\obj\Debug\net8.0-windows\TrackerUI.csproj.GenerateResource.cache
+C:\C#\Tournament tracker\TrackerUI\obj\Debug\net8.0-windows\TrackerUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Tournament tracker\TrackerUI\obj\Debug\net8.0-windows\TrackerUI.AssemblyInfoInputs.cache
+C:\C#\Tournament tracker\TrackerUI\obj\Debug\net8.0-windows\TrackerUI.AssemblyInfo.cs
+C:\C#\Tournament tracker\TrackerUI\obj\Debug\net8.0-windows\TrackerUI.csproj.CoreCompileInputs.cache
+C:\C#\Tournament tracker\TrackerUI\obj\Debug\net8.0-windows\TrackerUI.sourcelink.json
+C:\C#\Tournament tracker\TrackerUI\obj\Debug\net8.0-windows\TrackerUI.dll
+C:\C#\Tournament tracker\TrackerUI\obj\Debug\net8.0-windows\refint\TrackerUI.dll
+C:\C#\Tournament tracker\TrackerUI\obj\Debug\net8.0-windows\TrackerUI.pdb
+C:\C#\Tournament tracker\TrackerUI\obj\Debug\net8.0-windows\TrackerUI.genruntimeconfig.cache
+C:\C#\Tournament tracker\TrackerUI\obj\Debug\net8.0-windows\ref\TrackerUI.dll

@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\C#\\Tournament tracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEDA46F7-5704-4EE7-87F3-B7C34E19D460}|TrackerUI\\TrackerUI.csproj|c:\\c#\\tournament tracker\\trackerui\\tournamentviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{99F3CEC1-8065-410E-8B49-DF9A9A853E4D}|Tracker library\\Tracker library.csproj|c:\\c#\\tournament tracker\\tracker library\\tracker library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99F3CEC1-8065-410E-8B49-DF9A9A853E4D}|Tracker library\\Tracker library.csproj|solutionrelative:tracker library\\tracker library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDA46F7-5704-4EE7-87F3-B7C34E19D460}|TrackerUI\\TrackerUI.csproj|c:\\c#\\tournament tracker\\trackerui\\createtournamentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDA46F7-5704-4EE7-87F3-B7C34E19D460}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\createtournamentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDA46F7-5704-4EE7-87F3-B7C34E19D460}|TrackerUI\\TrackerUI.csproj|C:\\C#\\Tournament tracker\\trackerui\\tournamentviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FEDA46F7-5704-4EE7-87F3-B7C34E19D460}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\tournamentviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,19 +22,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TournamentViewerForm.cs [Design]",
-              "DocumentMoniker": "C:\\C#\\Tournament tracker\\TrackerUI\\TournamentViewerForm.cs",
-              "RelativeDocumentMoniker": "TrackerUI\\TournamentViewerForm.cs",
-              "ToolTip": "C:\\C#\\Tournament tracker\\TrackerUI\\TournamentViewerForm.cs [Design]",
-              "RelativeToolTip": "TrackerUI\\TournamentViewerForm.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "CreateTournamentForm.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\Tournament tracker\\TrackerUI\\CreateTournamentForm.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\CreateTournamentForm.cs",
+              "ToolTip": "C:\\C#\\Tournament tracker\\TrackerUI\\CreateTournamentForm.cs [Design]",
+              "RelativeToolTip": "TrackerUI\\CreateTournamentForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T17:07:05.906Z",
+              "WhenOpened": "2024-12-28T12:40:18.709Z",
+              "IsPinned": true,
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tracker library",
+              "DocumentMoniker": "C:\\C#\\Tournament tracker\\Tracker library\\Tracker library.csproj",
+              "RelativeDocumentMoniker": "Tracker library\\Tracker library.csproj",
+              "ToolTip": "C:\\C#\\Tournament tracker\\Tracker library\\Tracker library.csproj",
+              "RelativeToolTip": "Tracker library\\Tracker library.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T14:26:34.723Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -35,6 +57,17 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TournamentViewerForm.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\Tournament tracker\\TrackerUI\\TournamentViewerForm.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\TournamentViewerForm.cs",
+              "ToolTip": "C:\\C#\\Tournament tracker\\TrackerUI\\TournamentViewerForm.cs [Design]",
+              "RelativeToolTip": "TrackerUI\\TournamentViewerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:07:05.906Z"
             }
           ]
         }
